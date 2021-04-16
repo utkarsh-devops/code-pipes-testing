@@ -1,4 +1,4 @@
-# Terraform Web Server with vars example
+# Terraform Web Server example
 
 This folder contains a web server with vars example of a [Terraform](https://www.terraform.io/) file on Google Cloud Platform (GCP).
 
